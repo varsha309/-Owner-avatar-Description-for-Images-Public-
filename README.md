@@ -6,3 +6,4 @@ to capture information to describe the scene. Standard datasets Flickr8K and Fli
 VGG19 is used as an encoder with slight modification to get the desired dimensions. A novel Dense-LSTM is proposed as a decoder for the textual part.
 
 To view the paper, https://drive.google.com/drive/u/1/folders/1ae9XeWYdPUGpOgir_dC8zMxjhhf_tHor
+or https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs222358
